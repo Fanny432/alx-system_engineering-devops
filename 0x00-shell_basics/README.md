@@ -1,1 +1,0 @@
-Understanding shell basics
